@@ -1,4 +1,4 @@
-![MasterHead]([https://miro.medium.com/v2/resize:fit:892/1*7pVu29RVedvAq5VVKBUArQ.png](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*xt3W2Ll-jeTcjOa_))
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*xt3W2Ll-jeTcjOa_)
 <h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
