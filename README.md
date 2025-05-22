@@ -1,4 +1,4 @@
-<img src="https://hizliresim.com/21x14rg" />
+<img src="https://i.hizliresim.com/21x14rg.png" />
 <h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">A passionate Computer Engineer from Turkey</h3>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **TypeScript, Python, C# and Kubernetes**
 
-- 📫 How to reach me **stillhackable@gmail.com**
+- 📫 How to reach me **catalkayaarda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
